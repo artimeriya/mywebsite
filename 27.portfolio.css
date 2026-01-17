@@ -129,11 +129,11 @@
 
         .hero .container {
             max-width: 1400px;
-            margin: 200px;
-            padding: 200px;
+            margin: 100px;
+            padding: 2000px;
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 80px;
+            gap: 200px;
             align-items: center;
             position: relative;
             z-index: 1;
@@ -659,6 +659,7 @@
                 display: none;
             }
         }
+
 
 
 
