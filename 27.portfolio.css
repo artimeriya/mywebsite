@@ -152,6 +152,7 @@
 
         .hero-content h2 {
             font-size: 32px;
+            padding: 20px;
             margin-bottom: 25px;
             opacity: 0.9;
             animation: fadeInUp 1s 0.2s both;
@@ -660,6 +661,7 @@
                 display: none;
             }
         }
+
 
 
 
