@@ -1,5 +1,5 @@
     * {
-            margin: 50px;
+            margin: 0;
             padding: 300px;
             box-sizing: border-box;
             
@@ -659,5 +659,6 @@
                 display: none;
             }
         }
+
 
 
